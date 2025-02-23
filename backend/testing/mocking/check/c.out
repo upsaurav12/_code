@@ -1,0 +1,6 @@
+mode: set
+tracing/code/backend/testing/mocking/check/for.go:11.66,12.16 1 1
+tracing/code/backend/testing/mocking/check/for.go:13.12,14.24 1 1
+tracing/code/backend/testing/mocking/check/for.go:15.19,16.53 1 1
+tracing/code/backend/testing/mocking/check/for.go:17.17,18.50 1 1
+tracing/code/backend/testing/mocking/check/for.go:19.10,20.60 1 1
